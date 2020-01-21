@@ -8,9 +8,10 @@ def assembled_aoh
   const_array = [DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G]
 end
 
-def literal_aoh
-  # Using Array literal syntax only, build a nested array that uses the data
+# Using Array literal syntax only, build a nested array that uses the data
   # held in the constants
+def literal_aoh
+  
 end
 
 def aoh_lookup(aoh, row, key)
